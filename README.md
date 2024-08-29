@@ -1,6 +1,6 @@
 # Enterprise Architectures & Patterns
 
-This repository contains a collection of enterprise architectures and patterns, to illustrate the potential of [Spin](https://github.com/fermyon/spin) and WebAssembly (Wasm) for building real-world applications.
+This repository contains a collection of enterprise architectures and patterns, to illustrate the potential of [Spin](https://github.com/fermyon/spin) and WebAssembly (Wasm) for building real-world applications
 
 Each folder contains a self-contained example, including a high-level explanation of the pattern/architecture and instructions on how to build and run the particular Spin App(s).
 
