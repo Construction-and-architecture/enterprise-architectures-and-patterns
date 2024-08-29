@@ -1,6 +1,6 @@
 # Signed Webhooks using the WebAssembly Component Model
 
-This sample demonstrates how to implement signed webhooks by extracting signing and verification logic into a dedicated WebAssembly Component and re-using it from within WebAssembly Components written in different programming languages.
+This sample demonstrates how to implement signed webhooks by extracting signing and verification logic into a dedicated WebAssembly Component and re-using it from within WebAssembly Components written in different programming languages
 
 ## What are Signed Webhooks?
 
