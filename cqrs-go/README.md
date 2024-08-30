@@ -1,6 +1,6 @@
 # Command and Query Responsibility Segregation (CQRS)
 
-This folder contains a simple Command and Query Responsibility Segregation (CQRS) implementation written in TinyGo.
+This folder contains a simple Command and Query Responsibility Segregation (CQRS) implementation written in TinyGo
 
 ## What is Command and Query Responsibility Segregation (CQRS)
 
