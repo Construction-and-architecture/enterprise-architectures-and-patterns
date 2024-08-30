@@ -1,6 +1,6 @@
 # Long Running Jobs over HTTP
 
-This folder demonstrates how you can add support for long-running jobs over HTTP using Spin and its `mqtt` capabilities.
+This folder demonstrates how you can add support for long-running jobs over HTTP using Spin and its `mqtt` capabilities
 
 ## What is Long Running Jobs over HTTP
 
