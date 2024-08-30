@@ -2,7 +2,7 @@
 
 > Grafana [k6](https://k6.io/) is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible.
 
-Samples in this folder illustrate how to load test Spin applications.
+Samples in this folder illustrate how to load test Spin applications
 
 ## Install k6
 
