@@ -1,6 +1,6 @@
 ## HTTP CRUD Sample
 
-This is a sample implementation of CRUD (Create, Read, Update, Delete) in JavaScript.
+This is a sample implementation of CRUD (Create, Read, Update, Delete) in JavaScript
 
 The sample is using SQLite for persistence and provides the following API endpoints via HTTP:
 
