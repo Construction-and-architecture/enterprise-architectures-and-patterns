@@ -1,6 +1,6 @@
 # Aggregate Pattern
 
-This folder contains an implementation of the Aggregate Pattern. The sample consists of two backend services (written in Go and TypeScript) and an aggregate (written in Rust).
+This folder contains an implementation of the Aggregate Pattern. The sample consists of two backend services (written in Go and TypeScript) and an aggregate (written in Rust)
 
 ## What is the Aggregate Pattern
 
