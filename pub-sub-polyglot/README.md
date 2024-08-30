@@ -1,6 +1,6 @@
 # Publish-Subscribe
 
-This folder contains a Publish-Subscribe pattern implemented using different programming languages.
+This folder contains a Publish-Subscribe pattern implemented using different programming languages
 
 ## What is Publish-Subscribe
 
