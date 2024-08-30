@@ -1,6 +1,6 @@
 # Transparent Cache Sample
 
-This example illustrates how to implement caching when building HTTP APIs.
+This example illustrates how to implement caching when building HTTP APIs
 
 ## What is a Transparent Cache
 
