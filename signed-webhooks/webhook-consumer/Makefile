@@ -1,4 +1,4 @@
-.PHONY build:
+PHONY build:
 build:
 	source ./.venv/bin/activate; \
 	pip install -r requirements.txt; \
