@@ -1,6 +1,6 @@
 ## HTTP CRUD Sample
 
-This is a sample implementation of CRUD (Create, Read, Update, Delete) in Rust.
+This is a sample implementation of CRUD (Create, Read, Update, Delete) in Rust
 
 The sample is using MySQL for persistence and provides the following API endpoints via HTTP:
 
