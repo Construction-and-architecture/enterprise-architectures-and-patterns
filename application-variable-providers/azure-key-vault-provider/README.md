@@ -1,4 +1,4 @@
-This example relates to the [Azure Key Vault Application Variable Provider Example](https://developer.fermyon.com/spin/v2/dynamic-configuration#azure-keyvault-application-variable-provider-example) documentation.
+This example relates to the [Azure Key Vault Application Variable Provider Example](https://developer.fermyon.com/spin/v2/dynamic-configuration#azure-keyvault-application-variable-provider-example) documentation
 
 You are best to visit the above link for more information, but for convenience, below is the steps taken to set up the Vault side of the application:
 
