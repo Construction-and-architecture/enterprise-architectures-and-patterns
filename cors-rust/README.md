@@ -1,6 +1,6 @@
 # Cross-Origin Resource Sharing (CORS)
 
-This folder contains an HTTP API (written in Rust) with CORS support.
+This folder contains an HTTP API (written in Rust) with CORS support
 
 ## What is Cross-Origin Resource Sharing (CORS)?
 
