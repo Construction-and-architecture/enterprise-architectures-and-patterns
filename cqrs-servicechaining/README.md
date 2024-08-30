@@ -1,6 +1,6 @@
 # Command and Query Responsibility Segregation (CQRS)
 
-This folder contains a simple Command and Query Responsibility Segregation (CQRS) implementation written in Rust and Go(Lang) leveraging local Service Chaining capabilities provided by Spin.
+This folder contains a simple Command and Query Responsibility Segregation (CQRS) implementation written in Rust and Go(Lang) leveraging local Service Chaining capabilities provided by Spin
 
 ## What is Command and Query Responsibility Segregation (CQRS)
 
